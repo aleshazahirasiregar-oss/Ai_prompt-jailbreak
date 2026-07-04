@@ -1,6 +1,6 @@
-# Ai_jailbreak-prompt
+# Ai_prompt-jailbreak
 
-Welcome to **Ai_jailbreak-prompt**, a collection of creative and experimental
+Welcome to **Ai_prompt-jailbreak**, a collection of creative and experimental
 prompt engineering scripts designed to explore system-level metaphors,
 debugging rituals, and bypass simulations in AI conversations.
 
